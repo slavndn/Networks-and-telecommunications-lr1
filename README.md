@@ -5,6 +5,9 @@
 2. 
 
 
+|Header column 1|Header column 2|
+|-----------|-----------|
+
 
 ![image](https://github.com/user-attachments/assets/551af393-d473-4db8-bb28-fd43a2dd17e0)
 ![image](https://github.com/user-attachments/assets/e13464be-05f8-407c-b3ea-52521a188ce4)
