@@ -2,12 +2,22 @@
 ## Моя стратегия по улучшению пользовательского опыта с программой inSSIDer 5.5.0
 
 1. Я запустил inSSider 5.5.0 и выполнил сканирование всех доступных Wi-Fi сетей
-2. 
+2. Анализирую данные и записываю их в таблицу по схеме SSID | Signal | Channels
+
+| SSID              | Signal | Channels |
+|-------------------|--------|----------|
+| Beeline_5G_F47582 | -52dB  | 42[40]   |
+| Beeline_2G_F47582 | -50dB  | 1        |
+| DANIIL            | -67    | 4,42[36] |
+| SkyDrive          | -77    | 2        |
+| DIR               | -82    | 13       |
+| NADIR             | -83    | 11       |
+| Magistr-Redmi     | -83    | 1        |
+| TP-Link_B19E      | -83    | 4        |
+| Vika              | -84    | 5        |
 
 
-|Header column 1|Header column 2|Header column 3|
-|-----------|-----------|-----------|
-|defedwd| |defedwd| |defedwd|
+
 
 
 ![image](https://github.com/user-attachments/assets/551af393-d473-4db8-bb28-fd43a2dd17e0)
