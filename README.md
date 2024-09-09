@@ -5,7 +5,7 @@
 2. 
 
 
-|Header column 1|Header column 2|
+|Header column 1|Header column 2|Header column 2|
 |-----------|-----------|
 
 
