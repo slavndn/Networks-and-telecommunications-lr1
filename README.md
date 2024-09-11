@@ -6,8 +6,8 @@
 
 | SSID              | Signal | Channels |
 |-------------------|--------|----------|
-| Beeline_5G_F47582 | -52dB  | 42[40]   |
-| Beeline_2G_F47582 | -50dB  | 1        |
+| Beeline_5G_F47582 | -52    | 42[40]   |
+| Beeline_2G_F47582 | -50    | 1        |
 | DANIIL            | -67    | 4,42[36] |
 | SkyDrive          | -77    | 2        |
 | DIR               | -82    | 13       |
